@@ -2,7 +2,7 @@
 #include <string.h>
 #include <strings.h>
 #include <unistd.h>
-#include "lib/release/randomize/randomize_0_0_0.h"
+#include ".lib/release/randomize/randomize_0_0_0.h"
 
 #define VERSION 000
 
@@ -53,7 +53,7 @@ int main(int argc, char* argv[]) {
 	}
 
 	/*source files*/
-	const char* paths = "/data/data/com.termux/files/home/archive/development/freedom/coding/C/projects/generator/assets/values/strings/paths.txt";
+	const char* paths = ".assets/values/strings/paths.txt";
 	char* mixed_male_first_name_file_path = NULL;
 	char* mixed_female_first_name_file_path = NULL;
 	char* mixed_last_name_file_path = NULL;
