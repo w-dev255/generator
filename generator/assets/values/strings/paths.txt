@@ -1,3 +1,0 @@
-/data/data/com.termux/files/home/archive/development/freedom/coding/C/projects/generator/assets/values/strings/mixed_female_first_name.txt
-/data/data/com.termux/files/home/archive/development/freedom/coding/C/projects/generator/assets/values/strings/mixed_male_first_name.txt
-/data/data/com.termux/files/home/archive/development/freedom/coding/C/projects/generator/assets/values/strings/mixed_last_name.txt
