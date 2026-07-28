@@ -3,8 +3,8 @@
 	#include <stdlib.h>
 	#include <time.h>
 
-	int random_index(char** arr, size_t n) {
-        	int count = (int)n / sizeof(arr[0]);
+	int random_index(char** arr, int n) {
+        	int count = n / sizeof(arr[0]);
 
 	        srand((unsigned)time(NULL));
 
